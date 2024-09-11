@@ -22,7 +22,7 @@
         Result = AddNum(Num1:Num2);
       
         SubNum(Num1:Num2);
-        // dsply Result;
+        dsply Result;
 
         *Inlr = *On;
 
