@@ -20,7 +20,7 @@
 
         // Main Program.
         Result = AddNum(Num1:Num2);
-      
+        // Ṭest
         SubNum(Num1:Num2);
         dsply Result;
 
