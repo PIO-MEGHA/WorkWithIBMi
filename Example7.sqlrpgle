@@ -19,7 +19,7 @@
 
 
         // Main Program.
-        Num1 = 25;
+        Num1 = 10;
         Num2 = 20;
         Result = AddNum(Num1:Num2);
         SubNum(Num1:Num2);
