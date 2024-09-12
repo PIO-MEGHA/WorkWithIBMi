@@ -19,9 +19,9 @@
 
 
         // Main Program.
+        Num1 = 40;
+        Num2 = 20;
         Result = AddNum(Num1:Num2);
-        Num1 = 10;
-        dsply num1;
         SubNum(Num1:Num2);
         dsply Result;
 
