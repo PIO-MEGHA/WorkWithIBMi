@@ -20,7 +20,7 @@
 
         // Main Program.
         Num1 = 40;
-        Num2 = 20;
+        Num2 = 50;
         Result = AddNum(Num1:Num2);
         SubNum(Num1:Num2);
         dsply Result;
