@@ -21,7 +21,8 @@
         // Main Program.
 
         Num1 = 60;
-        Num2 = 30
+
+        Num2 = 30;
 
         Result = AddNum(Num1:Num2);
         SubNum(Num1:Num2);
