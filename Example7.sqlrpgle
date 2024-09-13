@@ -20,8 +20,7 @@
 
         // Main Program.
 
-        Num1 = 50;
-
+        Num1 = 12;
         Num2 = 30
 
         Result = AddNum(Num1:Num2);
